@@ -1,6 +1,6 @@
+#include "Core.h"
 #include <iostream>
-
-int main()
+int Log()
 {
     std::cout << "Hello, World!" << std::endl;
     return 0;
